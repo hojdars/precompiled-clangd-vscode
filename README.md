@@ -12,3 +12,6 @@ However, it also emits an error saying `Use of undeclared identifier 'say' (unde
   "file": "/<path-to-code>/precompiled-clangd-vscode/main.cpp"
 }
 ```
+
+![image](https://user-images.githubusercontent.com/10940329/132301683-b7287585-c471-44b5-9a99-386d6faf926f.png)
+
